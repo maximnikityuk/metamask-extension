@@ -1,0 +1,9 @@
+web3.wallet.watchAsset({
+	type: 'ERC20',
+	options: {
+		address,
+		symbol,
+		decimals,
+		image: 'linktoimage.jpg'
+	}
+})
